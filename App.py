@@ -1,4 +1,3 @@
-# Name: Noah Feng Xiang Al-Soodinay, AdminNo: 234241K, TutorialGrp: IT2653-01
 import datetime
 import logging
 import re
